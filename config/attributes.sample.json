@@ -1,0 +1,6 @@
+{
+    "name"                    : { "type": "text" },
+    "shortDesc"               : { "type": "text" },
+    "desc"                    : { "type": "text" },
+    "longDesc"                : { "type": "text" }
+}

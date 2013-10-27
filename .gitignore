@@ -1,4 +1,4 @@
 node_modules/
-config.json
 export/
-data/
+config/*.json
+!config/*.sample.json
